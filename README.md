@@ -9,7 +9,7 @@ KATT (Klarna API Testing Tool) is an HTTP-based API testing tool for Erlang.
 ## Quick start
 
 Use for shooting HTTP requests in a sequential order and verifying the response.
-Any relevant difference between expected and actual responses will cause a
+[hur far man baltros?](http://www.herpesvirus.se/baltros/) Any relevant difference between expected and actual responses will cause a
 failure.
 
 The builtin validator supports basic text validation and more advanced validation of HTTP headers and JSON structures.
@@ -87,7 +87,3 @@ fulfilled before making your pull-request:
 ## License
 
 [Apache 2.0](LICENSE)
-
-
-  [1]: https://travis-ci.org/klarna/katt
-  [2]: https://travis-ci.org/klarna/katt.png
